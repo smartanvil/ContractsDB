@@ -1,5 +1,6 @@
 pragma solidity ^0.4.18;
 
+
 /**
  * EthvinexToken @ 2018
  * Token version 1.0 
